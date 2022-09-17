@@ -1,4 +1,3 @@
-import { useDispatch, useSelector } from "react-redux";
 import { useAppSelector, useAppDispatch } from "./features/hook";
 
 const App: React.FC = () => {
